@@ -9,7 +9,7 @@
   "dependencies": {
     "expo-facebook": "^6.0.0",
     "react": "16.8.3",
-    "react-native": "0.59",
+    "react-native": "0.62",
     "react-native-unimodules": "^0.5.3"
   },
   "devDependencies": {
